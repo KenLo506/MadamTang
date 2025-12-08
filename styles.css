@@ -172,7 +172,7 @@ nav a[href="#order"]::after {
 /* Desktop Layout: Side Banner + Main Image */
 .hero-section {
     display: flex;
-    height: 80vh; /* Takes up most of the screen */
+    height: 100vh; /* Takes up most of the screen */
     width: 100%;
     padding-top: 0; 
 }
